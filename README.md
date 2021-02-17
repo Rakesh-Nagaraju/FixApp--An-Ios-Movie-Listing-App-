@@ -1,4 +1,4 @@
-# FixApp--An-Ios-Movie-Listing-App-
+# FixApp - An Ios Movie Listing App.
 FlixApp is a Movie Listing Ios app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## Flix Part 2
