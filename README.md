@@ -38,7 +38,7 @@ Also, encounteres minor errors and debuggig them were really challenging.
 ### App Walkthrough GIF
 The working of the App on Iphone-11 can be seen in the `gif` image below: 
 
-<img src="https://github.com/Rakesh-Nagaraju/FlixApp/blob/main/Screen-Recording-2021-02-11-at-7%20(1).gif" width=250><br>
+<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11.gif" width=250><br>
 
 The working of the App on different device size and orientations of Iphone SE (2nd gen) can be seen in the `gif` image below: 
 
