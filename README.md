@@ -10,9 +10,10 @@ FlixApp is a Movie Listing Ios app that allows users to browse movies from the [
 - [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 
 ### App Walkthrough GIF
-The working of the App on Iphone-11 can be seen in the `gif` image below: 
+- The working of the App on Iphone-11 can be seen in the `gif`- 1 image below: 
+- The working of the App on on Iphone SE (2nd gen) can also be seen in the `gif`- 2 image below: 
 
-<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11_part_2.gif" width=250>                    <img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_SE(2ndgen)_part_2.gif" width=250>
+<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11_part_2.gif" width=250> <img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_SE(2ndgen)_part_2.gif" width=250>
 
 ### Notes
 - The main challenge implementing the detail screen for the Collection View. 
@@ -31,10 +32,10 @@ The working of the App on Iphone-11 can be seen in the `gif` image below:
 - [x] (1pt) Run the app on a real device.
 
 ### App Walkthrough GIF
-- The working of the App on Iphone-11 can be seen in the `gif` image below: 
-- The working of the App on different device size and orientations of Iphone SE (2nd gen) can be seen in the `gif` image below: 
+- The working of the App on Iphone-11 can be seen in the `gif`- 1 image below: 
+- The working of the App on different device size and orientations of Iphone SE (2nd gen) can be seen in the `gif`- 2 image below: 
 
-<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11.gif" width=250>                   <img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_SE(2ndgen).gif" width=250><br>
+<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11.gif" width=250> <img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_SE(2ndgen).gif" width=250><br>
 
 ### Notes
 - The main challenge encountered in this project was configuring the XCode and the Cocopods.
