@@ -12,7 +12,7 @@ FlixApp is a Movie Listing Ios app that allows users to browse movies from the [
 ### App Walkthrough GIF
 The working of the App on Iphone-11 can be seen in the `gif` image below: 
 
-<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11_part_2.gif" width=250> <img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_SE(2ndgen)_part_2.gif" width=250>
+<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11_part_2.gif" width=250> - <img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_SE(2ndgen)_part_2.gif" width=250>
 
 ### Notes
 - The main challenge implementing the detail screen for the Collection View. 
@@ -31,12 +31,10 @@ The working of the App on Iphone-11 can be seen in the `gif` image below:
 - [x] (1pt) Run the app on a real device.
 
 ### App Walkthrough GIF
-The working of the App on Iphone-11 can be seen in the `gif` image below: 
+- The working of the App on Iphone-11 can be seen in the `gif` image below: 
+- The working of the App on different device size and orientations of Iphone SE (2nd gen) can be seen in the `gif` image below: 
 
-<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11.gif" width=250><br>
-
-The working of the App on different device size and orientations of Iphone SE (2nd gen) can be seen in the `gif` image below: 
-
+<img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_11.gif" width=250>
 <img src="https://github.com/Rakesh-Nagaraju/FixApp--An-Ios-Movie-Listing-App-/blob/main/gif_Iphone_SE(2ndgen).gif" width=250><br>
 
 ### Notes
